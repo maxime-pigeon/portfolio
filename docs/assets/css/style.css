@@ -1,0 +1,63 @@
+@import url("reset.css");
+
+body {
+    background-color: black;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 1.35;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    padding: 0 2px;
+}
+
+a:hover {
+    color: white;
+    background-color: black;
+}
+
+img {
+    max-width: 90vw;
+    max-height: 90vh;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+header {
+    display: flex;
+    padding: 1rem 2rem;
+    gap: 2rem;
+}
+
+@media (max-width: 600px) {
+    .project header {
+        flex-direction: column;
+    }
+}
+
+header > * {
+    flex: 1;
+}
+
+header > div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+header:not(:has(nav)) h1 {
+    text-align: right;
+}
+
+.images li {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

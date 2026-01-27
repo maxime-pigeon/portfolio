@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+    <project>
+        <title>Au VieuxBouc</title>
+        <slug>auvieuxbouc</slug>
+        <year>2019</year>
+        <images>
+            <source>/assets/img/avb-website/image5.png</source>
+            <source>/assets/img/avb-website/image6.png</source>
+            <source>/assets/img/avb-website/image7.png</source>
+            <source>/assets/img/avb-website/image8.png</source>
+            <source>/assets/img/avb-website/image1.png</source>
+            <source>/assets/img/avb-website/image2.png</source>
+            <source>/assets/img/avb-website/image3.png</source>
+            <source>/assets/img/avb-website/image4.png</source>
+        </images>
+        <description>Website for an an independent bookstore in Rosemont.</description>
+    </project>
+    <project>
+        <title>Friendship &amp; Difference</title>
+        <slug>friendship-and-difference</slug>
+        <year>2020</year>
+        <size>5.5 × 8.5 in</size>
+        <images>
+            <source>/assets/img/amitie-et-difference/image6.jpg</source>
+            <source>/assets/img/amitie-et-difference/image5.jpg</source>
+            <source>/assets/img/amitie-et-difference/image1.jpg</source>
+            <source>/assets/img/amitie-et-difference/image4.jpg</source>
+            <source>/assets/img/amitie-et-difference/image2.jpg</source>
+            <source>/assets/img/amitie-et-difference/image3.jpg</source>
+        </images>
+        <description>Invite/programme for a seminar on the concept of friendship in literature.</description>
+    </project>
+    <project>
+        <title>DART611</title>
+        <slug>dart611</slug>
+        <year>2021</year>
+        <images>
+            <source>/assets/img/dart611/image1.png</source>
+            <source>/assets/img/dart611/image2.png</source>
+            <source>/assets/img/dart611/image3.png</source>
+            <source>/assets/img/dart611/image4.png</source>
+        </images>
+        <description>Website for a graduate seminar about interdisciplinary in design. Echoing the focus on comparing practices, the online exhibition allows visitors to display as many projects as they want side-by-side.</description>
+    </project>
+    <project>
+        <title>Musée sans mur</title>
+        <slug>musee-sans-mur</slug>
+        <year>2021</year>
+        <size>4.25 × 11 in</size>
+        <images>
+            <source>/assets/img/musee-sans-murs/image9.jpg</source>
+            <source>/assets/img/musee-sans-murs/image1.jpg</source>
+            <source>/assets/img/musee-sans-murs/image2.jpg</source>
+            <source>/assets/img/musee-sans-murs/image3.jpg</source>
+            <source>/assets/img/musee-sans-murs/image4.jpg</source>
+            <source>/assets/img/musee-sans-murs/image5.jpg</source>
+            <source>/assets/img/musee-sans-murs/image6.jpg</source>
+            <source>/assets/img/musee-sans-murs/image7.jpg</source>
+            <source>/assets/img/musee-sans-murs/image8.jpg</source>
+        </images>
+        <description>Self-initiated publication exploring the notion of “passage” as it relates to sculpture and type design. It uses the fold as an abstracting device to draw connections between images.</description>
+    </project>
+    <project>
+        <title>Interlope #4</title>
+        <slug>interlope4</slug>
+        <year>2022</year>
+        <size>11 × 17 in</size>
+        <images>
+            <source>/assets/img/interlope4-poster/image1.jpg</source>
+        </images>
+        <description>Poster for Interlope #4 magazine.</description>
+    </project>
+    <project>
+        <title>Fleet in Being</title>
+        <slug>fleet-in-being</slug>
+        <year>2022</year>
+        <size>8.5 × 11 in</size>
+         <images>
+            <source>/assets/img/fleet-in-being/image2.jpg</source>
+            <source>/assets/img/fleet-in-being/image1.jpg</source>
+            <source>/assets/img/fleet-in-being/image4.jpg</source>
+            <source>/assets/img/fleet-in-being/image5.jpg</source>
+            <source>/assets/img/fleet-in-being/image6.jpg</source>
+            <source>/assets/img/fleet-in-being/image7.jpg</source>
+            <source>/assets/img/fleet-in-being/image8.jpg</source>
+            <source>/assets/img/fleet-in-being/image9.jpg</source>
+            <source>/assets/img/fleet-in-being/image10.jpg</source>
+            <source>/assets/img/fleet-in-being/image3.jpg</source>
+        </images>
+        <description>Reader about unseen bodies in movement; a collection of texts and images exploring Paul Virilio’s concept of the same name. To allow for open-ended reflexion, each chapter is saddle stitched individually, then wire bound together to form a book. The cover is a reproduction of an old Battleship game.</description>
+    </project>
+    <project>
+        <title>Aiming to Miss</title>
+        <slug>aiming-to-miss</slug>
+        <year>2022</year>
+        <size>5.5 × 8.5 in</size>
+        <images>
+            <source>/assets/img/aiming-to-miss/image1.jpg</source>
+            <source>/assets/img/aiming-to-miss/image2.jpg</source>
+            <source>/assets/img/aiming-to-miss/image3.jpg</source>
+            <source>/assets/img/aiming-to-miss/image4.jpg</source>
+            <source>/assets/img/aiming-to-miss/image5.jpg</source>
+        </images>
+        <description>Reader on the notion of “polyphony” inspired by badly photocopied documents teachers often distribute in class. Each text is reproduced with its original layout, and the book is (badly) printed on demand using Lulu.com.</description>
+    </project>
+    <project>
+        <title>At the Table, Otherwise</title>
+        <slug>at-the-table</slug>
+        <year>2022</year>
+        <images>
+            <source>/assets/img/at-the-table/image1.png</source>
+            <source>/assets/img/at-the-table/image2.png</source>
+            <source>/assets/img/at-the-table/image3.png</source>
+            <source>/assets/img/at-the-table/image4.png</source>
+        </images>
+        <description>Website made as part of the Expanding Exhibitions residency program at the Leonard &amp; Bina Ellen Art Gallery.</description>
+    </project>
+    <project>
+        <title>Inner Demon Delectatio</title>
+        <slug>inner-demon-delectatio</slug>
+        <year>2022</year>
+        <images>
+            <source>/assets/img/inner-demon-delectatio/image1.webp</source>
+            <source>/assets/img/inner-demon-delectatio/image2.jpg</source>
+            <source>/assets/img/inner-demon-delectatio/image3.jpg</source>
+            <source>/assets/img/inner-demon-delectatio/image4.jpg</source>
+        </images>
+        <description>Exhibition catalogue for Anteism Books and The Hole.</description>
+    </project>
+    <project>
+        <title>Post-Scriptum</title>
+        <slug>post-scriptum</slug>
+        <year>2023</year>
+        <images>
+            <source>/assets/img/post-scriptum/image1.gif</source>
+            <source>/assets/img/post-scriptum/image2.png</source>
+            <source>/assets/img/post-scriptum/image3.png</source>
+            <source>/assets/img/post-scriptum/image4.png</source>
+            <source>/assets/img/post-scriptum/image5.png</source>
+        </images>
+        <description>Identity and website for Post-Scriptum, a literary journal.</description>
+    </project>
+</projects>

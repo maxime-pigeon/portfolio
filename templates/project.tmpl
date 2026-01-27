@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href={{absURL "/assets/css/style.css"}}>
+	<title>{{.Title}}</title>
+</head>
+<body class="project">
+    <header>
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="{{absURL "/"}}">Index</a></li>
+                    {{if .Next.Slug}}
+                        <li><a href="{{absURL .Next.Slug}}">Next</a></li>
+                    {{end}}
+                    {{if .Prev.Slug}}
+                        <li><a href="{{absURL .Prev.Slug}}">Previous</a></li>
+                    {{end}}
+                </ul>
+            </nav>
+            <h1>{{.Title}}</h1>
+        </div>
+        <p>{{.Desc}} ({{.Year}}{{if .Size}}, {{.Size}}{{end}})</p>
+    </header>
+    <main>
+        <ul class="images">
+            {{range .Images}}
+                <li>
+                    <img src="{{absURL .}}" alt="">
+                </li>
+            {{end}}
+        </ul>
+    </main>
+</body>
+</html>
